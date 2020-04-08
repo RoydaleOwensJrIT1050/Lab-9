@@ -1,0 +1,30 @@
+#one {
+    position: fixed; 
+    background-color: lightgray; 
+    font-weight: bold; 
+    padding: 10px;}
+    
+#two
+{
+float: left;
+background-color: beige;
+font-family: sans-serif, verdana;
+font-size: large;
+padding: 20px;
+}
+#three
+{
+position: absolute;
+top:20px;
+right:40px;
+background-color:lightgray;
+border: solid;
+
+
+}
+.four
+{
+position: relative;
+left: 15px;
+background-color: lightgreen;
+}
